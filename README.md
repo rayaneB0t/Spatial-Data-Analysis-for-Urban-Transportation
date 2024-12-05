@@ -1,4 +1,4 @@
-# Spatial-Data-Analysis-for-Urban-Transportation
+# Spatial Data Analysis for Urban Transportation
 
 * Conducted a comprehensive analysis integrating Lothian bus location data with the Scottish Index of Multiple Deprivation (SIMD) to unveil socioeconomic patterns in Edinburgh.
 * Evaluated and compared the performance of MongoDB & PostgreSQL SQL databases in handling large-scale spatial data, optimizing for query efficiency and data integrity.
